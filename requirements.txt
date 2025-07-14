@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+dbt
+python-dotenv
+telethon
+ultralytics
+dagster
